@@ -1,2 +1,2 @@
 # Projects_HTML
-Projects that are coded in HTML. Difficulty levels includes all.
+Projects that are coded in HTML and styled in CSS. Difficulty levels include all.
